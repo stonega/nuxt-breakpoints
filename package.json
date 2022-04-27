@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-breakpoints",
-  "version": "1.1.9",
+  "name": "nuxt-breakpoints-ssr",
+  "version": "0.1.1",
   "description": "Resize observer breakpoints with Nuxt.js module.",
   "license": "MIT",
   "keywords": [
@@ -13,11 +13,11 @@
   ],
   "contributors": [
     {
-      "name": "Steven Ho <shockshocksoul@gmail.com>"
+      "name": "Stone <xijieyin@gmail.com>"
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/steven0811/nuxt-breakpoints.git",
+  "repository": "https://github.com/stonega/web3-onboard.git",
   "publishConfig": {
     "access": "public"
   },
@@ -54,7 +54,7 @@
     "get-port": "latest",
     "husky": "latest",
     "jest": "latest",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.14.0",
     "nuxt-edge": "latest",
     "push-dir": "^0.4.1",
     "request": "latest",
