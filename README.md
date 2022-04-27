@@ -1,6 +1,7 @@
 # nuxt-breakpoints
-
+**Forked from https://github.com/stevenho0811/nuxt-breakpoints**
 > Resize observer breakpoints with Nuxt.js module.
+
 
 [![NPM](https://nodei.co/npm/nuxt-breakpoints.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nuxt-breakpoints/)
 <a href="https://www.buymeacoffee.com/steven0811" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
@@ -8,7 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Package Size](https://img.shields.io/bundlephobia/minzip/nuxt-breakpoints)](https://nodei.co/npm/nuxt-breakpoints/)
 
-
+## Update
+Setup default breakpoint according device type in ssr environment
 
 [DEMO](https://steven0811.github.io/nuxt-breakpoints/)
 

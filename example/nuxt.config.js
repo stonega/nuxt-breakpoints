@@ -19,6 +19,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Resize observer breakpoints with Nuxt.js module.' }
     ]
   },
+  ssr: true,
+  target: 'server',
   rootDir: resolve(__dirname, '..'),
   buildDir: resolve(__dirname, '.nuxt'),
   srcDir: __dirname,
