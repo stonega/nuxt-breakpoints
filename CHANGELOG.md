@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/stonega/web3-onboard/compare/v0.1.1...v0.1.2) (2022-04-27)
+
 ### [0.1.1](https://github.com/stonega/web3-onboard/compare/v1.1.9...v0.1.1) (2022-04-27)
 
 ### [1.1.9](https://github.com/steven0811/nuxt-breakpoints/compare/v1.1.8...v1.1.9) (2019-12-01)

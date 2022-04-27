@@ -1,6 +1,6 @@
 {
   "name": "nuxt-breakpoints-ssr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Resize observer breakpoints with Nuxt.js module.",
   "license": "MIT",
   "keywords": [
